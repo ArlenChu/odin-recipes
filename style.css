@@ -1,0 +1,15 @@
+h1 {
+  color: lightslategray;
+  padding: 4px;
+  margin: 10px;
+}
+
+ul{
+    border: 1px fill black;
+}
+
+a{
+    color: gray;
+    display: block;
+    padding: 4px;
+}
